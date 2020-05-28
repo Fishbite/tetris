@@ -12,3 +12,5 @@ Thank you very much Ania, your hard work and effort is greatly appreciated.
 Happy coding!
 
 Fishbite
+
+NB: This is not mobile friendly at the moment. With a prior background in 3D modeling and animation, we're just going through the process of learning Blender, with the intention of creating an awesome interface for the game. We'll then launch the multi-device compatible app.
