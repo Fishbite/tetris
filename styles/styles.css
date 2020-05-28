@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+}
+
+.grid {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;    
+    background-color: rgb(255, 200, 0);
+    background-image: url(../images/darknoise.png);
+    background-size: 25px;    
+    border: 15px solid rgba(49, 49, 49, 1);
+    border-radius: 3px;
+    box-shadow: inset 2px 2px 2px rgb(30, 34, 43);
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+}
+
+.tetromino {
+    background-color: blue;
+}
+
+.mini-grid {
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 200, 0);
+    border: 2px solid rgba(49, 49, 49, 1);
+    border-radius: 2.5px;
+    box-shadow: inset 2px 2px 2px rgb(30, 34, 43);
+}
+
+.mini-grid div {
+    width: 20px;
+    height: 20px;
+}
